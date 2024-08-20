@@ -60,10 +60,10 @@ function Help() {
                             If you need further assistance, feel free to contact our support team. We are here to help you!
                         </p>
                         <p className="text-gray-700">
-                            Email: <a href="mailto:support@example.com" className="text-blue-500 hover:underline">vivekchandran663@gmail.com</a>
+                            Email: <a href="mailto:support@example.com" className="text-blue-500 hover:underline">safe.haseeba@gmail.com</a>
                         </p>
                         <p className="text-gray-700">
-                            Phone: <a href="tel:+91 9400787291" className="text-blue-500 hover:underline">+91 9400787291</a>
+                            Phone: <a href="tel:+91 9400787291" className="text-blue-500 hover:underline">+91 7909118443</a>
                         </p>
                     </div>
                 </div>
