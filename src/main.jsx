@@ -9,7 +9,7 @@ import Books from "./routes/books";
 import Book from "./routes/book";
 import Authors from "./routes/authors";
 import Author from "./routes/author";
-import Help from "./routes/Help"
+import Help from "./routes/Help";
 
 const router = createBrowserRouter([
   {
