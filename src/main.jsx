@@ -5,9 +5,9 @@ import "./index.css";
 import Root from "./routes/root";
 import ErrorPage from "./error-page";
 import Home from "./routes/home";
-import Books from "./routes/books";
-import Book from "./routes/book";
-import Authors from "./routes/authors";
+import Books from "./routes/Books";
+import Book from "./routes/Book";
+import Authors from "./routes/Authors";
 import Author from "./routes/author";
 import Help from "./routes/Help";
 
